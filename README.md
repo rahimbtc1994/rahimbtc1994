@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**rahimbtc1994/rahimbtc1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **DevOps Engineer** passionate about automating workflows, improving infrastructure, and enhancing deployment efficiency.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools:
+- **Infrastructure as Code**: Terraform, Ansible, Vagrant
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm
+- **CI/CD Pipelines**: GitHub Actions, Jenkins, GitLab CI/CD
+- **Cloud Platforms**: AWS, Azure
+- **Scripting**: Python, Bash, PowerShell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Featured Projects:
+1. **[Automated Kubernetes Deployment](https://github.com/yourusername/k8s-deploy)** – Set up a scalable Kubernetes cluster with Helm charts.
+2. **[CI/CD Pipeline with Jenkins](https://github.com/yourusername/jenkins-pipeline)** – Automated build, test, and deployment for microservices.
+
